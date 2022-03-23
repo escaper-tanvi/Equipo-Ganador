@@ -18,7 +18,6 @@ import com.example.rutina.Model.ToDoModel;
 import com.example.rutina.R;
 import com.example.rutina.Utils.DatabaseHandler;
 
-
 import java.util.List;
 
 public class ToDoAdapter extends RecyclerView.Adapter<ToDoAdapter.ViewHolder> {
